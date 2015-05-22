@@ -1,0 +1,9 @@
+Package: com.richardlindsay.remindme
+Name: Remind Me
+Depends: mobilesubstrate
+Version: 1.0.2
+Architecture: iphoneos-arm
+Description: An annoying reminder that shows up everytime you unlock your device!
+Maintainer: Richard Lindsay
+Author: Richard Lindsay
+Section: Tweaks
